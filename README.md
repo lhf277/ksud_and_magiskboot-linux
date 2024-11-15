@@ -1,5 +1,5 @@
 # magiskboot
-[![Build magiskboot](https://github.com/lhf277/magiskboot-linux/actions/workflows/build-magiskboot.yml/badge.svg)](https://github.com/lhf277/magiskboot-linux/actions/workflows/build-magiskboot.yml)
+[![Build](https://github.com/lhf277/magiskboot-linux/actions/workflows/build-magiskboot.yml/badge.svg)](https://github.com/lhf277/magiskboot-linux/actions/workflows/build-magiskboot.yml)
 
 ## Introduction
 The **magiskboot**, one of [Magisk](https://github.com/topjohnwu/Magisk)'s binary, built form Magisk (topjohnwu) source code, using GitHub Actions.
